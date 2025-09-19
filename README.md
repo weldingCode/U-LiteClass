@@ -7,13 +7,6 @@
 ![image](https://github.com/weldingCode/U-LiteClass/blob/main/U-LiteClass-Detection.png)
 
 ## Deploy the image classification model to mobile devices.
-<div align=center>
-<img src="https://github.com/weldingCode/U-LiteClass/blob/main/classification.png" width="300" height="600" />
-</div>
-
-<div align=center>
-<img width="300" height="600" alt="demo" src="https://github.com/weldingCode/U-LiteClass/blob/main/video.gif" />
-</div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div>
