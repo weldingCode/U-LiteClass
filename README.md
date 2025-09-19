@@ -3,9 +3,6 @@
 ### U-LiteClass Network Structure Diagram
 ![image](https://github.com/weldingCode/U-LiteClass/blob/main/U-LiteClass.png)
 
-<img src="https://github.com/weldingCode/U-LiteClass/blob/main/U-LiteClass.png" 
-     alt="U-LiteClass 网络结构" 
-     style="transform: scale(0.5);" />
 
 ### Lightweight Object Detection Model Architecture Using the U-LiteClass Network Architecture
 ![image](https://github.com/weldingCode/U-LiteClass/blob/main/U-LiteClass-Detection.png)
