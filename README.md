@@ -5,5 +5,5 @@
 
 ## Deploy the image classification model to mobile devices.
 <div align=center>
-<img src="https://github.com/weldingCode/U-LiteClass/blob/main/classification.png" width="400" height="500" />
+<img src="https://github.com/weldingCode/U-LiteClass/blob/main/classification.png" width="500" height="700" />
 </div>
