@@ -17,5 +17,5 @@
 </video>
 </div>
 
-<video width="630" height="300" src="https://github.com/weldingCode/U-LiteClass/blob/main/video.mp4"></video>
+<video width="630" height="300" src="video.mp4"></video>
 
