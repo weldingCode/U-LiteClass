@@ -18,8 +18,6 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div>
     <img src="https://github.com/weldingCode/U-LiteClass/blob/main/classification.png" width="300" height="600" />
-  </div>
-  <div>
     <img width="300" height="600" alt="demo" src="https://github.com/weldingCode/U-LiteClass/blob/main/video.gif" />
   </div>
 </div>
