@@ -1,6 +1,6 @@
 # U-LiteClass
 ## The source code will be publicly released upon paper acceptance.🤝
-![image](https://github.com/weldingCode/U-LiteClass/blob/main/U-LiteCLass.png)
+![image](https://github.com/weldingCode/U-LiteClass/blob/main/U-LiteClass-Detection.png)
 
 ## Deploy the object detection model to the mobile phone
 <div align=center>
