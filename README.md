@@ -12,12 +12,5 @@
 </div>
 
 <div align=center>
-<video src="https://github.com/weldingCode/U-LiteClass/blob/main/video.mp4" width="300" controls>
-  你的浏览器不支持视频播放
-</video>
+<img width="300" height="600" alt="demo" src="https://github.com/weldingCode/U-LiteClass/blob/main/video.gif" />
 </div>
-
-<video width="630" height="300" src="video.mp4"></video>
-
-<img width="630" height="400" alt="demo" src="https://github.com/weldingCode/U-LiteClass/blob/main/video.gif" />
-
